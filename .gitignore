@@ -1,0 +1,4 @@
+*.tmp.c
+*/error.txt
+*/calculated_pi.txt
+*/__pycache__/*
